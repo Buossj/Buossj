@@ -81,5 +81,5 @@ He seleccionado este proyecto porque demuestra mi capacidad para construir soluc
 ---
 
 ## 📫 Contacto
-* **LinkedIn:**
+* **LinkedIn:** https://www.linkedin.com/in/alonso-tapia-d%C3%ADaz-b903b3343/
 * **Ubicación:** Chile 🇨🇱

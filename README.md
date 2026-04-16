@@ -73,7 +73,7 @@ He seleccionado este proyecto porque demuestra mi capacidad para construir soluc
 
 ## Análisis FODA Personal (Estrategia de Empleabilidad)
 
-* **Fortalezas:** Perfil interdisciplinario único, dominio de Django, visión de producto LegalTech.
+* **Fortalezas:** Perfil interdisciplinario, dominio de Django, visión de producto LegalTech.
 * **Debilidades:** En búsqueda de mayor experiencia en arquitecturas de microservicios.
 * **Oportunidades:** Auge de la digitalización de procesos legales.
 * **Amenazas:** Alta competencia en el nivel Junior; necesidad de actualización constante en frameworks.
